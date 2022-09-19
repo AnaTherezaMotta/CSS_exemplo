@@ -1,0 +1,50 @@
+.quadrado{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #333333;
+    border-radius: 4px;
+    color: #ffffff;
+    padding: 24px;
+    margin: 12px;
+}
+
+.magenta{
+    background-color: crimson;
+}
+
+.azul{
+    background-color: royalblue;
+}
+
+.verde{
+    background-color: seagreen;
+}
+
+h1{
+    color:rgb(15, 15, 15);
+    background-color: rgb(22, 129, 120);
+    border: 2px solid rgb(8, 100, 93);
+    box-shadow: 0 8px 12px rgb(0, 0, 0, .3);
+    font-family: 'Roboto', sans-serif;
+}
+
+/* sites:
+    https://color.adobe.com/pt/create/color-wheel
+    https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=4
+    https://www.colourlovers.com/palettes
+
+    fontes:
+    https://www.dafont.com/pt/theme.php?cat=106
+    https://fonts.google.com/
+*/
+
+body{
+    background-color: #fcfcfc;
+}
+
+.card{
+    width: 320px;
+    height: 490px;
+    border-radius: 12px;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, .3);
+}
