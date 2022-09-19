@@ -1,0 +1,21 @@
+.quadrado{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #333333;
+    border-radius: 4px;
+    color: #ffffff;
+    padding: 24px;
+    margin: 12px;
+}
+
+.magenta{
+    background-color: crimson;
+}
+
+.azul{
+    background-color: royalblue;
+}
+
+.verde{
+    background-color: seagreen;
+}
